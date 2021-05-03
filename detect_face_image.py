@@ -1,5 +1,6 @@
 #Programmed by Shounak Chandra
 #Hooghly Engineering & Technology College
+#Use only image
 import cv2
 
 
